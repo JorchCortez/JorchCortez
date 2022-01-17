@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer, Gamer and Foodie
 - 🎲 Currently working on the [Stardew Valley Progress Tracker](https://thecoderaccoons.github.io/svprogresstracker/)
 - 👓 Trying to learn everything i can
-- 🎆 2021 Goals: get an AWS Developer Certification
+- 🎆 2022 Goals:
 - 🕹  I love Video Games and Table top games
 
 ### Connect with me: 
