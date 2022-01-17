@@ -5,7 +5,7 @@
 - 🎲 Currently working on the [Stardew Valley Progress Tracker](https://thecoderaccoons.github.io/svprogresstracker/)
 - 👓 Trying to learn everything I can
 - 🕹  I love Video Games and Table top games
-- 🐉Wanna be DM one day
+- 🐉 Wanna be DM one day
 - 🎆 2022 Goals:
 	- [ ] Get daily progress in at least 1 personal project
 	- [ ] Learn about crypto
@@ -13,6 +13,12 @@
 	- [ ] Update [SVPT](https://thecoderaccoons.github.io/svprogresstracker/) (Project above)
 	- [ ] Revamp portfolio website
 	- [ ] Learn how to properly use liquid 😥
+	
+## ⌛ Latest Projects:
+
+| Published | Title | Link | Description | 
+|--|--|--|--|
+| ☑ | Weather viewer |  | Weather viewer extension for Google Chrome |
 
 ### Connect with me: 
 [<img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/website-icon-png-transparent/website-icon-png-transparent-9.jpg" />](https://www.thecoderaccoons.com/Contact)
