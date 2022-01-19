@@ -18,7 +18,7 @@
 
 | Published | Title | Link | Description | 
 |--|--|--|--|
-| ☑ | Weather viewer |shorturl.at/dlmIJ  | Weather viewer extension for Google Chrome |
+| ☑ | Weather viewer | http://shorturl.at/dlmIJ | Weather viewer extension for Google Chrome |
 
 ### Connect with me: 
 [<img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/website-icon-png-transparent/website-icon-png-transparent-9.jpg" />](https://www.thecoderaccoons.com/Contact)
