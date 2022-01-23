@@ -18,7 +18,8 @@
 
 | Published | Title | Link | Description | 
 |--|--|--|--|
-| ☑ | Weather viewer | http://shorturl.at/dlmIJ | Weather viewer extension for Google Chrome |
+| Published | Weather viewer | http://shorturl.at/dlmIJ | Weather viewer extension for Google Chrome |
+| WIP | make The Campaign |  | Small social media platform focused on D&D and other tabletop RPG's to find resources, ideas and a community to play share your games and even find a party to play with 🎲🐉 |
 
 ### Connect with me: 
 [<img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/website-icon-png-transparent/website-icon-png-transparent-9.jpg" />](https://www.thecoderaccoons.com/Contact)
