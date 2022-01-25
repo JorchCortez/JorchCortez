@@ -2,7 +2,7 @@
 ### Hi there, Im Jorge - aka [TheCodeRaccoons](https://www.thecoderaccoons.com/)
 
 ## I'm a Full Stack Developer, Gamer, Tabletop enthusiast and Foodie working with code and trying to make things easy 😎
-- 🎲 Currently working on the [Stardew Valley Progress Tracker](https://thecoderaccoons.github.io/svprogresstracker/)
+- 🎲 Currently mantaining the [Stardew Valley Progress Tracker](https://thecoderaccoons.github.io/svprogresstracker/)
 - 👓 Trying to learn everything I can
 - 🕹  I love Video Games and Table top games
 - 🐉 Wanna be DM one day
