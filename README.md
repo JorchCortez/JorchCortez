@@ -57,4 +57,4 @@
 
 ![Joorch's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorchCortez&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorchCortez&theme=radical&hide=ShaderLab)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorchCortez&theme=radical&hide=ShaderLab&exclude_repo=Shroomdots)
