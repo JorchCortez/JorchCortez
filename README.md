@@ -14,7 +14,7 @@
 	- [ ] Revamp portfolio website
 	- [ ] Learn how to properly use liquid 😥
 	
-## ⌛ Latest Projects:
+## ⌛ 2022 Projects:
 
 | Published | Title | Link | Description | 
 |--|--|--|--|
