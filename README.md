@@ -18,10 +18,10 @@
 
 | Published | Title | Link | Description | 
 |--|--|--|--|
-| Published | Weather viewer | http://shorturl.at/dlmIJ | Weather viewer extension for Google Chrome |
+| Published | Weather viewer | [Go to page](http://shorturl.at/dlmIJ) | Weather viewer extension for Google Chrome |
 | Published | VeloquioMX | [VeloquioMX](https://veloquio.mx/) | Full Shopify Store for Veloquio |
 | WIP | Make The Campaign |  | Small social media platform focused on D&D and other tabletop RPG's to find resources, ideas and a community to play share your games and even find a party to play with 🎲🐉 |
-| Published | Texas-420 website | https://texas-420.online/ | It started as a helping hand for a  mid sized [Rust](https://rust.facepunch.com/) server me and my gf played in quite frequently but it ended up with quite a successful server so far so we keep working on it :D 🎮 |
+| Published | Texas-420 website | [Go to page](https://texas-420.online/) | It started as a helping hand for a  mid sized [Rust](https://rust.facepunch.com/) server me and my gf played in quite frequently but it ended up with quite a successful server so far so we keep working on it :D 🎮 |
 |WIP|Zoomies| nourl | Mobile Game in development
 
 ### Connect with me: 
