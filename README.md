@@ -7,8 +7,8 @@
 - 🕹  I love Video Games and Table top games
 - 🐉 Wanna be DM one day
 - 🎆 2022 Goals:
-	- [ ] Get daily progress in at least 1 personal project
-	- [ ] Learn about crypto
+	- [ ] Get ~~daily~~ Weekly progress in at least 1 personal project
+	- [x] Learn about crypto
 	- [ ] Deploy at least 5 personal apps
 	- [ ] Update [SVPT](https://thecoderaccoons.github.io/svprogresstracker/) (Project above)
 	- [ ] Revamp portfolio website
