@@ -35,7 +35,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/website-icon-png-transparent/website-icon-png-transparent-9.jpg" />](https://www.thecoderaccoons.com/Contact)
 [<img align="left" alt="LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jacortezu)
 [<img align="left" alt="GitHub" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />](https://github.com/JorchCortez)
-[<img align="left" alt="FreeCodeCamp" width="22px" src="https://www.thecoderaccoons.com/static/media/fcc.20da15e1.svg" />](https://www.freecodecamp.org/coderaccoons) 
+[<img align="left" alt="FCC" width="22px" src="https://www.thecoderaccoons.com/static/media/fcc.20da15e1.svg" />](https://www.freecodecamp.org/coderaccoons) 
 
 <br> 
 
