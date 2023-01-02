@@ -1,34 +1,41 @@
 
-### Hi there, Im Jorge - aka [TheCodeRaccoons](https://www.thecoderaccoons.com/)
+### Hi there, Im Jorge - aka [TheCodeRaccoons](https://www.thecoderaccoons.com/) (yeah the website is down, I'm working on an upgrade for it)
 
 ## I'm a Full Stack Developer, Gamer, Tabletop enthusiast and Foodie working with code and trying to make things easy 😎
-- 🎲 Currently mantaining the [Stardew Valley Progress Tracker](https://thecoderaccoons.github.io/svprogresstracker/)
+- 🎲 [Stardew Valley Progress Tracker](https://thecoderaccoons.github.io/svprogresstracker/) Developer and Mantainer (WIP needs update for 1.5 Update)
 - 👓 Trying to learn everything I can
 - 🕹  I love Video Games and Table top games
 - 🐉 Wanna be DM one day
-- 🎆 2022 Goals:
-	- [ ] Get ~~daily~~ Weekly progress in at least 1 personal project
-	- [x] Learn about crypto
-	- [ ] Deploy at least 5 personal apps
+- 🎆 2023 Goals:
+	- [ ] Get monthly progress in at least 1 personal project
+	- [ ] Learn about Web 3.0
+	- [ ] Deploy at least 2 personal projects
+	- [ ] Revamp portfolio website (Going for a webflow page due to time)
 	- [ ] Update [SVPT](https://thecoderaccoons.github.io/svprogresstracker/) (Project above)
-	- [ ] Revamp portfolio website
-	- [x] Learn how to properly use liquid 😥
+
+
+## 💻 2023 Projects:
+
+| Published | Title | Link | Description | 
+|--|--|--|--|
+| WIP | Evinvite | unpublished | RSVP page for events, might turn it into an actual site after finishing it. |
+
 	
-## ⌛ 2022 Projects:
+## ✔ 2022 Projects:
 
 | Published | Title | Link | Description | 
 |--|--|--|--|
 | Published | Weather viewer | [Go to page](http://shorturl.at/dlmIJ) | Weather viewer extension for Google Chrome |
 | Published | VeloquioMX | [Go to page](https://veloquio.mx/) | Full Shopify Store for Veloquio |
-| WIP | Make The Campaign |  | Small social media platform focused on D&D and other tabletop RPG's to find resources, ideas and a community to play share your games and even find a party to play with 🎲🐉 |
+| Published | OokamiJime | [Go to page](https://jimenafdz.webflow.io/) | CMS driven portfolio for Ookamijime |
 | Published | Texas-420 website | [Go to page](https://texas-420.online/) | It started as a helping hand for a  mid sized [Rust](https://rust.facepunch.com/) server me and my gf played in quite frequently but it ended up with quite a successful server so far so we keep working on it :D 🎮 |
-|WIP|Zoomies| nourl | Mobile Game in development
+|Archived|Zoomies| nourl | Mobile Game in development
 
 ### Connect with me: 
 [<img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/website-icon-png-transparent/website-icon-png-transparent-9.jpg" />](https://www.thecoderaccoons.com/Contact)
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.thecoderaccoons.com/static/media/linkedin.625f1e7b.svg" />](https://www.linkedin.com/in/jacortezu)
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.thecoderaccoons.com/static/media/github.aeb378ab.svg" />](https://github.com/JorchCortez)
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.thecoderaccoons.com/static/media/fcc.20da15e1.svg" />](https://www.freecodecamp.org/coderaccoons) 
+[<img align="left" alt="LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jacortezu)
+[<img align="left" alt="GitHub" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />](https://github.com/JorchCortez)
+[<img align="left" alt="FreeCodeCamp" width="22px" src="https://www.thecoderaccoons.com/static/media/fcc.20da15e1.svg" />](https://www.freecodecamp.org/coderaccoons) 
 
 <br> 
 
