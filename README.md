@@ -18,6 +18,8 @@
 
 | Published | Title | Link | Description | 
 |--|--|--|--|
+| WIP | CR Website | unpublished | My own website, currently in development along with webflow Trickery. |
+| WIP | Webflow Trickery | unpublished | My set of tools using attributes for webflow. |
 | WIP | Evinvite | unpublished | RSVP page for events, might turn it into an actual site after finishing it. |
 
 	
