@@ -81,7 +81,11 @@
 <img align="left" alt="Markdown" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
 
 <br>
-<br>
+<br> 
+
+## Followed repos:
+
+[![Static Badge](https://img.shields.io/badge/Devicons-followed-brightgreen)](https://github.com/devicons/devicon)
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 <br>
 <br>
