@@ -82,7 +82,9 @@
 
 <br>
 <br>
-
+[![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
+<br>
+<br>
 ## My Stats
 
 ![Joorch's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorchCortez&count_private=true&show_icons=true&theme=radical)
