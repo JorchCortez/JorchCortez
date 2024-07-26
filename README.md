@@ -7,7 +7,7 @@
 - 🕹  I love Video Games and Table top games
 - 🐉 Dungeon Master & Silliest Fire Genasi Artificer you've ever seen
 - 🎆 2024 Goals:
-	- [ X ] Full Webflow Partner certification.
+	- [X] Full Webflow Partner certification.
 	- [ ] Webflow Trickery (V1) full release
 	- [ ] Deploy at least 2 personal projects (1/2)
 	- [ ] Revamp portfolio website
