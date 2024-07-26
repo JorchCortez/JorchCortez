@@ -2,36 +2,27 @@
 ### Hi there, Im Jorge - aka [TheCodeRaccoons](https://www.thecoderaccoons.com/) (yeah the website is down, I'm working on an upgrade for it)
 
 ## I'm a Full Stack Developer, Gamer, Tabletop enthusiast and Foodie working with code and trying to make things easy 😎
-- 🎲 [Stardew Valley Progress Tracker](https://thecoderaccoons.github.io/svprogresstracker/) Developer and Mantainer (WIP needs update for 1.5 Update)
+- 🎲 [Stardew Valley Progress Tracker](https://thecoderaccoons.github.io/svprogresstracker/) Developer and Mantainer (Pre 1.5)
 - 👓 Trying to learn everything I can
 - 🕹  I love Video Games and Table top games
-- 🐉 Wanna be DM one day
-- 🎆 2023 Goals:
-	- [ ] Get monthly progress in at least 1 personal project
-	- [ ] Learn about Web 3.0
-	- [ ] Deploy at least 2 personal projects
-	- [ ] Revamp portfolio website (Going for a webflow page due to time)
-	- [ ] Update [SVPT](https://thecoderaccoons.github.io/svprogresstracker/) (Project above)
-
-
-## 💻 2023 Projects:
-
-| Published | Title | Link | Description | 
-|--|--|--|--|
-| WIP | CR Website | unpublished | My own website, currently in development along with webflow Trickery. |
-| WIP | Webflow Trickery | unpublished | My set of tools using attributes for webflow. |
-| WIP | Evinvite | unpublished | RSVP page for events, might turn it into an actual site after finishing it. |
+- 🐉 Dungeon Master & Silliest Fire Genasi Artificer you've ever seen
+- 🎆 2024 Goals:
+	- [ X ] Full Webflow Partner certification.
+	- [ ] Webflow Trickery (V1) full release
+	- [ ] Deploy at least 2 personal projects (1/2)
+	- [ ] Revamp portfolio website
+	- [ ] Update [SVPT](https://thecoderaccoons.github.io/svprogresstracker/)
 
 	
-## ✔ 2022 Projects:
+## ✔ Latest Personal Projects:
 
 | Published | Title | Link | Description | 
 |--|--|--|--|
-| Published | Weather viewer | [Go to page](http://shorturl.at/dlmIJ) | Weather viewer extension for Google Chrome |
-| Published | VeloquioMX | [Go to page](https://veloquio.mx/) | Full Shopify Store for Veloquio |
-| Published | OokamiJime | [Go to page](https://jimenafdz.webflow.io/) | CMS driven portfolio for Ookamijime |
-| Published | Texas-420 website | [Go to page](https://texas-420.online/) | It started as a helping hand for a  mid sized [Rust](https://rust.facepunch.com/) server me and my gf played in quite frequently but it ended up with quite a successful server so far so we keep working on it :D 🎮 |
-|Archived|Zoomies| nourl | Mobile Game in development
+| Published | Weather viewer | [View page](http://shorturl.at/dlmIJ) | Weather viewer extension for Google Chrome |
+| Published | VeloquioMX | [View page](https://veloquio.mx/) | Full Shopify Store for Veloquio |
+| Published | OokamiJime | [View page](https://jimenafdz.webflow.io/) | CMS driven portfolio for Ookamijime |
+| Published | Texas-420 website | [View page](https://texas-420.online/) | Website for a mid sized [Rust](https://rust.facepunch.com/) server I played on |
+| Archived | Zoomies | nourl | Mobile Game in development
 
 ### Connect with me: 
 [<img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/website-icon-png-transparent/website-icon-png-transparent-9.jpg" />](https://www.thecoderaccoons.com/Contact)
@@ -43,42 +34,42 @@
 <br> 
 
 ## Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-<img align="left" alt="NextJs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-<img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
-<img align="left" alt="Slack" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" />
-<img align="left" alt="Oracle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
-<img align="left" alt="Trello" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
-<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" /> 
+<img align="left" alt="Java" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="NextJs" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="React" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img align="left" alt="Android" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
+<img align="left" alt="Slack" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" />
+<img align="left" alt="Oracle" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
+<img align="left" alt="Trello" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
+<img align="left" alt="Heroku" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" /> 
 <br/>
 <br/>
-<img align="left" alt="VS Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /> 
-<img align="left" alt="VS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" /> 
-<img align="left" alt="Codepen" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-<img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
+<img align="left" alt="VS Code" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /> 
+<img align="left" alt="VS" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" /> 
+<img align="left" alt="Codepen" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" />
+<img align="left" alt="HTML5" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="Sass" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+<img align="left" alt="JavaScript" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Node.js" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
 <br/>
 <br/>
-<img align="left" alt="ORACLE" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="GitLab" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /> 
-<img align="left" alt="Tailwind" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" /> 
+<img align="left" alt="ORACLE" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" />
+<img align="left" alt="MySQL" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Git" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="GitLab" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
+<img align="left" alt="Bootstrap" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /> 
+<img align="left" alt="Tailwind" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" /> 
 <br/>
 <br/>
-<img align="left" alt="Material" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" /> 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Webflow" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg" />
-<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-<img align="left" alt="Markdown" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
+<img align="left" alt="Material" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" /> 
+<img align="left" alt="Terminal" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Webflow" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg" />
+<img align="left" alt="Docker" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Figma" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+<img align="left" alt="Markdown" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
 
 <br>
 <br> 
