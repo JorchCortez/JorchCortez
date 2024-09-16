@@ -22,7 +22,6 @@
 | Published | VeloquioMX | [View page](https://veloquio.mx/) | Full Shopify Store for Veloquio |
 | Published | OokamiJime | [View page](https://jimenafdz.webflow.io/) | CMS driven portfolio for Ookamijime |
 | Published | Texas-420 website | [View page](https://texas-420.online/) | Website for a mid sized [Rust](https://rust.facepunch.com/) server I played on |
-| Archived | Zoomies | nourl | Mobile Game in development
 
 ### Connect with me: 
 [<img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/website-icon-png-transparent/website-icon-png-transparent-9.jpg" />](https://www.thecoderaccoons.com/Contact)
