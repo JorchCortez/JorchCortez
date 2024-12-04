@@ -8,9 +8,9 @@
 - 🐉 Dungeon Master & Silliest Fire Genasi Artificer you've ever seen
 - 🎆 2024 Goals:
 	- [X] Full Webflow Partner certification.
-	- [ ] Webflow Trickery (V1) full release
-	- [ ] Deploy at least 2 personal projects (1/2)
-	- [ ] Revamp portfolio website
+	- [ ] Webtricks (V1) full release
+	- [x] Deploy at least 2 personal projects (1/2)
+	- [x] Revamp portfolio website
 	- [ ] Update [SVPT](https://thecoderaccoons.github.io/svprogresstracker/)
 
 	
@@ -18,6 +18,7 @@
 
 | Published | Title | Link | Description | 
 |--|--|--|--|
+| Published | Personal Website | [View page](https://www.thecoderaccoons.com) | Personal portfolio website |
 | Published | Weather viewer | [View page](http://shorturl.at/dlmIJ) | Weather viewer extension for Google Chrome |
 | Published | VeloquioMX | [View page](https://veloquio.mx/) | Full Shopify Store for Veloquio |
 | Published | OokamiJime | [View page](https://jimenafdz.webflow.io/) | CMS driven portfolio for Ookamijime |
