@@ -1,5 +1,5 @@
 
-### Hi there, Im Jorge - aka [TheCodeRaccoons](https://www.thecoderaccoons.com/) (yeah the website is down, I'm working on an upgrade for it)
+### Hi there, Im Jorge - aka [TheCodeRaccoons](https://www.thecoderaccoons.com/)
 
 ## I'm a Full Stack Developer, Gamer, Tabletop enthusiast and Foodie working with code and trying to make things easy 😎
 - 🎲 [Stardew Valley Progress Tracker](https://thecoderaccoons.github.io/svprogresstracker/) Developer and Mantainer (Pre 1.5)
@@ -8,7 +8,7 @@
 - 🐉 Dungeon Master & Silliest Fire Genasi Artificer you've ever seen
 - 🎆 2024 Goals:
 	- [X] Full Webflow Partner certification.
-	- [ ] Webtricks (V1) full release
+	- [x] Webtricks (V1) full release
 	- [x] Deploy at least 2 personal projects (1/2)
 	- [x] Revamp portfolio website
 	- [ ] Update [SVPT](https://thecoderaccoons.github.io/svprogresstracker/)
