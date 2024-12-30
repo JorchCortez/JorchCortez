@@ -2,7 +2,7 @@
 # Hi there, Im Jorge - aka [TheCodeRaccoons](https://www.thecoderaccoons.com/)
 
 ## I'm a Full Stack Developer, Gamer, Seasoned Dungeon Master, Tabletop enthusiast, and Foodie working with code and trying to make things easy 😎
-- 🎲 [WebTricks](https://www.thecoderaccoons.com/webtricks) Creator and Maintainer (Pre 1.5)
+- 🎲 [WebTricks](https://www.thecoderaccoons.com/webtricks) Creator and Maintainer
 - 👓 Trying to learn everything I can
 - 🕹  I love Video Games and Tabletop games
 - 🐉 Dungeon Master & Silliest Fire Genasi Artificer you've ever seen
