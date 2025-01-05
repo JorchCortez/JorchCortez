@@ -63,14 +63,13 @@
 	<img align="left" alt="Git" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 	<img align="left" alt="GitHub" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 	<img align="left" alt="GitLab" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
-	<img align="left" alt="Bootstrap" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /> 
-	<img align="left" alt="Tailwind" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" /> 
-	<img align="left" alt="Material" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" /> 
+	<img align="left" alt="Bootstrap" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
+	<img align="left" alt="Material" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" />
+<img align="left" alt="Terminal" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 <br/>
 <br/>
 <div>
-	<img align="left" alt="Terminal" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 	<img align="left" alt="Webflow" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webflow/webflow-original.svg" />
 	<img align="left" alt="Docker" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 	<img align="left" alt="Figma" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
