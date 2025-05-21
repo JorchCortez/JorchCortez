@@ -9,7 +9,8 @@
 - 🎆 2025 Goals:
   	- [ ] Finish [WebTricks](https://www.thecoderaccoons.com/webtricks) up-to-date documentation.
 	- [ ] Homely Development.
-	- [ ] Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks) (apart from the communitie's)
+	- [ ] ~~ Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks) ~~
+	- [ ] Contribute to Fnsweet attributes project 	
 	- [ ] Deploy at least 2 personal projects (0/2)
 	- [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog)
 	- [ ] Get into the Webflow Partner program
