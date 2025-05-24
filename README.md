@@ -7,9 +7,9 @@
 - 🕹  I love Video Games and Tabletop games
 - 🐉 Dungeon Master & Silliest Fire Genasi Artificer you've ever seen
 - 🎆 2025 Goals:
-  	- [ ] Finish [WebTricks](https://www.thecoderaccoons.com/webtricks) up-to-date documentation.
-	- [ ] Homely Development.
-	- [ ] ~Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks)~
+  	- [x] Finish [WebTricks](https://www.thecoderaccoons.com/webtricks) up-to-date documentation.
+	- [x] Homely Development (WIP).
+	- [x] ~Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks)~
 	- [ ] Contribute to Fnsweet attributes project 	
 	- [ ] Deploy at least 2 personal projects (0/2)
 	- [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog)
