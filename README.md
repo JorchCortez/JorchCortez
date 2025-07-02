@@ -12,7 +12,7 @@
 	- [x] Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks)
 	- [ ] Contribute to Fnsweet attributes project 	
 	- [ ] Deploy at least 2 personal projects (0/2)
-	- [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (4/18)
+	- [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (5/18)
 	- [ ] Get into the Webflow Partner program
 	
 ## ✔ Latest Personal Projects:
