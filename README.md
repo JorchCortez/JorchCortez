@@ -21,7 +21,7 @@
 |--|--|--|--|
 | Published | WebTricks | [View page](https://www.thecoderaccoons.com/WebTricks) | JS Library for the web |
 | Published | Personal Website | [View page](https://www.thecoderaccoons.com) | Personal portfolio website |
-| Published | Weather viewer | [View page](http://shorturl.at/dlmIJ) | Weather viewer extension for Google Chrome |
+| Published | Weather viewer | [View page](https://chromewebstore.google.com/detail/weather-viewer/hggpgkkiabldmmakjocjncifpieaephc) | Weather viewer extension for Google Chrome |
 | Published | VeloquioMX | [View page](https://veloquio.mx/) | Basic Shopify Store for Veloquio |
 | Published | OokamiJime | [View page](https://jimenafdz.webflow.io/) | CMS driven portfolio for Ookamijime |
 | Published | Texas-420 website | [View page](https://texas-420.online/) | Website for a mid sized [Rust](https://rust.facepunch.com/) server I play on |
