@@ -11,7 +11,7 @@
 	- [x] Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks)
     - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (10/18)
 	- [ ] Contribute to Fnsweet attributes project 	
-	- [ ] Deploy at least 2 personal projects (0/2)
+	- [ ] Deploy at least 2 personal projects (1/2)
 	- [ ] Get into the new Webflow Partner program
 	
 ## ✔ Latest Personal Projects:
@@ -25,8 +25,8 @@
 | Published | Texas-420 website | [View page](https://texas-420.online/) | Website for a mid sized [Rust](https://rust.facepunch.com/) server I play on |
 
 ### Connect with me: 
-[<img align="left" alt="LinkedIn" width="22px" src="https://icon-library.com/images/website-icon-png-transparent/website-icon-png-transparent-9.jpg" />](https://www.thecoderaccoons.com)
-[<img align="left" alt="LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jacortezu)
+[<img align="left" alt="Website" width="22px" src="https://github.com/JorchCortez/assets/blob/main/web-domain.png" />](https://www.thecoderaccoons.com)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jacortezu)
 [<img align="left" alt="GitHub" width="22px" src="https://github.com/JorchCortez/assets/blob/main/github.svg" />](https://github.com/JorchCortez)
 [<img align="left" alt="FCC" width="22px" src="https://github.com/JorchCortez/assets/blob/main/webflow_icon.svg" />](https://www.freecodecamp.org/coderaccoons) 
 
@@ -47,7 +47,7 @@
 <div>
 	<img align="left" alt="VS Code" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /> 
 	<img align="left" alt="VS" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" /> 
-	<img align="left" alt="Codepen" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" />
+	<img align="left" alt="Codepen" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
 	<img align="left" alt="HTML5" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 	<img align="left" alt="CSS3" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 	<img align="left" alt="Sass" width="26px" height="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
@@ -79,8 +79,8 @@
 <br> 
 
 ## Followed repos:
-[![WebTricks](https://img.shields.io/badge/WebTricks-followed-brightgreen)](https://github.com/TheCodeRaccoons/WebTricks)
-[![Static Badge](https://img.shields.io/badge/Devicons-followed-brightgreen)](https://github.com/devicons/devicon)
+[![WebTricks](https://img.shields.io/badge/WebTricks-maintainer-blue)](https://github.com/TheCodeRaccoons/WebTricks)
+[![Static Badge](https://img.shields.io/badge/Devicons-contributor-orange)](https://github.com/devicons/devicon)
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 <br>
 <br>
