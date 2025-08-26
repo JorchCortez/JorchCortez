@@ -8,12 +8,11 @@
 - 🐉 Dungeon Master & Silliest Fire Genasi Artificer you've ever seen
 - 🎆 2025 Goals:
   	- [x] Finish [WebTricks](https://www.thecoderaccoons.com/webtricks) up-to-date documentation.
-	- [x] Homely Development (WIP).
 	- [x] Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks)
+    - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (10/18)
 	- [ ] Contribute to Fnsweet attributes project 	
 	- [ ] Deploy at least 2 personal projects (0/2)
-	- [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (5/18)
-	- [ ] Get into the Webflow Partner program
+	- [ ] Get into the new Webflow Partner program
 	
 ## ✔ Latest Personal Projects:
 
@@ -23,7 +22,6 @@
 | Published | Personal Website | [View page](https://www.thecoderaccoons.com) | Personal portfolio website |
 | Published | Weather viewer | [View page](https://chromewebstore.google.com/detail/weather-viewer/hggpgkkiabldmmakjocjncifpieaephc) | Weather viewer extension for Google Chrome |
 | Published | VeloquioMX | [View page](https://veloquio.mx/) | Basic Shopify Store for Veloquio |
-| Published | OokamiJime | [View page](https://jimenafdz.webflow.io/) | CMS driven portfolio for Ookamijime |
 | Published | Texas-420 website | [View page](https://texas-420.online/) | Website for a mid sized [Rust](https://rust.facepunch.com/) server I play on |
 
 ### Connect with me: 
