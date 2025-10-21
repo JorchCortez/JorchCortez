@@ -89,6 +89,6 @@
 <br>
 ## My Stats
 
-![Joorch's GitHub stats](https://github-readme-stats-rouge-seven-22.vercel.app/api?username=JorchCortez&count_private=true&show_icons=true&theme=radical)
-
+![Joorch's GitHub stats](https://github-readme-stats-rouge-seven-22.vercel.app/api?username=JorchCortez&count_private=true&show_icons=true&theme=radical)<br/>
+![jorchCortez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorchCortez&theme=radical&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats-rouge-seven-22.vercel.app/api/top-langs/?username=JorchCortez&layout=compact&langs_count=10&theme=radical&count_private=true&exclude_repo=Shroomdots&hide=ShaderLab,HLSL)
