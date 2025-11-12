@@ -13,7 +13,7 @@
 	- [x] Deploy at least 2 personal projects (2/2)
 	- [ ] Re-deploy SVPT avaliable for the latest versions of the game
     - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (13/18)
-	- [ ] Contribute to Fnsweet attributes project 
+	- [ ] Contribute to other open-source projects 
 	
 ## ✔ Latest Personal Projects:
 
