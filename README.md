@@ -83,6 +83,8 @@
 
 ## Followed repos:
 [![WebTricks](https://img.shields.io/badge/WebTricks-maintainer-blue)](https://github.com/TheCodeRaccoons/WebTricks)
+[![Json2Type](https://img.shields.io/badge/JSON2Type-maintainer-blue)](https://github.com/JorchCortez/json-2-type-extension)
+[![useAsyncView](https://img.shields.io/badge/useAsyncView-maintainer-blue)](https://github.com/JorchCortez/use-async-view)
 [![Static Badge](https://img.shields.io/badge/Devicons-contributor-orange)](https://github.com/devicons/devicon)
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 <br>
