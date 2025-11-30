@@ -12,13 +12,14 @@
 	- [x] Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks)	
 	- [x] Deploy at least 2 personal projects (3/2)
 	- [ ] Re-deploy SVPT avaliable for the latest versions of the game
-    - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (14/18)
+    - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (15/18)
 	- [ ] Contribute to other open-source projects 
 	
 ## ✔ Latest Personal Projects:
 
 | Published | Title | Link | Description | Date |
 |--|--|--|--|--|
+| Published | useAsyncView (NPM) | [View page](https://www.npmjs.com/package/use-async-view?activeTab=readme) | NPM Module for generating simple rendering processes, similar to Suspence, with additional options and React native compatible | Nov 22, 2025 |
 | Published | JSON2Type Generator | [View page](https://marketplace.visualstudio.com/items?itemName=TheCodeRaccoons.json2typegenerator) | VS Code Extension to generate types out of JSON data. | Oct 13, 2025 |
 | Published | WebTricks | [View page](https://www.thecoderaccoons.com/WebTricks) | JS Library for the web | Dec 31, 2024 |
 | Published | Personal Website | [View page](https://www.thecoderaccoons.com) | Personal portfolio website | Jul 18, 2024 |
@@ -85,6 +86,7 @@
 [![WebTricks](https://img.shields.io/badge/WebTricks-maintainer-blue)](https://github.com/TheCodeRaccoons/WebTricks)
 [![Json2Type](https://img.shields.io/badge/JSON2Type-maintainer-blue)](https://github.com/JorchCortez/json-2-type-extension)
 [![useAsyncView](https://img.shields.io/badge/useAsyncView-maintainer-blue)](https://github.com/JorchCortez/use-async-view)
+[![Stardew Valley Progress Tracker](https://img.shields.io/badge/SVPT-maintainer-blue)](https://github.com/TheCodeRaccoons/svprogresstracker)
 [![Static Badge](https://img.shields.io/badge/Devicons-contributor-orange)](https://github.com/devicons/devicon)
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 <br>
