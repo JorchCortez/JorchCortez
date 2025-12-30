@@ -12,7 +12,7 @@
 	- [x] Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks)	
 	- [x] Deploy at least 2 personal projects (3/2)
 	- [ ] Re-deploy SVPT avaliable for the latest versions of the game
-    - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (16/18)
+    - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (17/18)
 	- [ ] Contribute to other open-source projects 
 	
 ## ✔ Latest Personal Projects:
