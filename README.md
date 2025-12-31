@@ -10,7 +10,7 @@
 - 🎆 2025 Goals:
   	- [x] Finish [WebTricks](https://www.thecoderaccoons.com/webtricks) up-to-date documentation.
 	- [x] Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks)	
-	- [x] Deploy at least 2 personal projects (3/2)
+	- [x] Deploy at least 2 personal projects (4/2)
 	- [x] Re-deploy SVPT avaliable for the latest versions of the game
     - [x] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (18/18)
 	- [x] Contribute to other open-source projects 
