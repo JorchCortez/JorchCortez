@@ -7,13 +7,13 @@
 - 👓 Trying to learn everything I can
 - 🕹  I love Video Games and Tabletop games
 - 🐉 Dungeon Master & Silliest Fire Genasi Artificer you've ever seen
-- 🎆 2025 Goals:
-  	- [x] Finish [WebTricks](https://www.thecoderaccoons.com/webtricks) up-to-date documentation.
-	- [x] Adding up to 3 new functionalities to [WebTricks](https://www.thecoderaccoons.com/webtricks)	
-	- [x] Deploy at least 2 personal projects (4/2)
-	- [x] Re-deploy SVPT avaliable for the latest versions of the game
-    - [x] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (18/18)
-	- [x] Contribute to other open-source projects 
+- 🎆 2026 Goals:
+  	- [ ] Take on 3 projects on the side 0/3
+	- [ ] Continue updating and improving my current open source projects
+	- [ ] Deploy at least 2 personal projects (0/2)
+	- [ ] Update SVPT UI and have it ready for V1.7
+    - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (0/18)
+	- [ ] Get a mostly green Github contribution chart
 	
 ## ✔ Latest Personal Projects:
 
