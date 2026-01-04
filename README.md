@@ -32,7 +32,7 @@
 [<img align="left" alt="Website" width="22px" src="https://github.com/JorchCortez/assets/blob/main/web-domain.png" />](https://www.thecoderaccoons.com)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jacortezu)
 [<img align="left" alt="GitHub" width="22px" src="https://github.com/JorchCortez/assets/blob/main/github.svg" />](https://github.com/JorchCortez)
-[<img align="left" alt="FCC" width="22px" src="https://github.com/JorchCortez/assets/blob/main/webflow_icon.svg" />](https://www.freecodecamp.org/coderaccoons) 
+[<img align="left" alt="FCC" width="22px" src="https://github.com/JorchCortez/assets/blob/main/webflow_icon.svg" />](https://webflow.com/@thecoderaccoons) 
 
 <br> 
 <br> 
