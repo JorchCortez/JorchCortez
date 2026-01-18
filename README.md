@@ -9,7 +9,7 @@
 - 🐉 Dungeon Master & Silliest Fire Genasi Artificer you've ever seen
 - 🎆 2026 Goals:
   	- [ ] Take on 3 projects on the side 0/3
-	- [ ] Continue updating and improving my current open source projects
+	- [ ] Continue to maintain and update my current open source projects
 	- [ ] Deploy at least 2 personal projects (0/2)
 	- [ ] Update SVPT UI and have it ready for V1.7
     - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (0/18)
