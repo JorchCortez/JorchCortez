@@ -12,7 +12,7 @@
 	- [ ] Continue to maintain and update my current open source projects
 	- [ ] Deploy at least 2 personal projects (0/2)
 	- [ ] Update SVPT UI and have it ready for V1.7
-    - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (1/18)
+    - [ ] Add at least 18 new blog posts to my [Articles page](https://www.thecoderaccoons.com/blog) (2/18)
 	- [ ] Get a mostly green Github contribution chart
 	
 ## ✔ Latest Personal Projects:
